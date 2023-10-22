@@ -30,8 +30,8 @@ Este proyecto es una aplicación de Android para el conocido juego del mismo nom
 Este proyecto no está abierto a contribuciones por el momento.
 
 ## Autores
-[Altus24](https://github.com/Altus24)
-[hectorconte](https://github.com/hectorconte)
+- [Altus24](https://github.com/Altus24)
+- [hectorconte](https://github.com/hectorconte)
 
 # Licencia
 Este proyecto está licenciado bajo la licencia MIT.
